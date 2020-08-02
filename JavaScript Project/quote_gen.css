@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(3, 3, 3);
+}
+  #head{
+      text-align: center;
+      font-size: xx-large;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:black;
+      background-color: white;
+  }
+  #bn{
+    text-align: center;
+    position:relative;
+    left:45%;
+    height:50px;
+    width:100px;
+    top:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: whitesmoke;
+    font-size: large;
+
+}
+#random_quote{
+    color:white;
+    text-align: center;
+    font-size:x-large;
+    position:relative;
+    top:25%;
+    justify-content: center;
+}
+
